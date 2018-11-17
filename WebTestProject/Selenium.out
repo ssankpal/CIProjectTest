@@ -1,0 +1,13 @@
+2018-07-14 23:13:43 INFO  TestLogger:13 - Test execution is started
+2018-07-14 23:17:51 INFO  TestLogger:13 - Test execution is started
+2018-07-14 23:18:16 INFO  TestLogger:13 - Test execution is started
+2018-07-14 23:26:09 INFO  TestLogger:13 - Test execution is started
+2018-07-14 23:47:51 INFO  TestLogger:13 - Test execution is started
+2018-07-14 23:50:02 INFO  TestLogger:13 - Test execution is started
+2018-07-14 23:50:02 INFO  TestLogger:14 - this is debuger
+2018-07-17 22:45:10 INFO  TestLogger:13 - Test execution is started
+2018-07-17 22:45:10 DEBUG TestLogger:14 - this is debuger
+2018-07-17 22:47:47 INFO  TestLogger:13 - Test execution is started
+2018-07-17 22:47:47 DEBUG TestLogger:14 - this is debuger
+2018-07-17 22:48:58 INFO  TestLogger:13 - Test execution is started
+2018-07-17 22:48:58 DEBUG TestLogger:14 - this is debuger
