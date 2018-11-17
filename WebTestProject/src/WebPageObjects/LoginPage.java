@@ -37,5 +37,6 @@ public class LoginPage {
 	 driver.findElement(By.id("user_login")).sendKeys(HP.PR.getProperty("username"));
 	 driver.findElement(By.name("pwd")).sendKeys(HP.PR.getProperty("pwd"));
 	 driver.findElement(By.name("wp-submit")).click();;
+	 
  }
 }
